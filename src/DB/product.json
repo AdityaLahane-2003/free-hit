@@ -1,5 +1,61 @@
 [
   {
+    "productName": "Trivia API",
+    "category": "api",
+    "image": "https://tinyurl.com/43nyf95u",
+    "link": "https://opentdb.com/api_config.php",
+    "description": "The Open Trivia Database provides a completely free JSON API for use in programming projects to retrieve trivia questions."
+  },
+  {
+    "productName": "IPinfo",
+    "category": "api",
+    "image": "https://cdn.ipinfo.io/static/images/layout/logo.svg",
+    "link": "https://ipinfo.io/developers",
+    "description": "Comprehensive IP address data, IP geolocation API and database"
+  },
+  {
+    "productName": "Dogs",
+    "category": "api",
+    "image": "https://dog.ceo/img/dog-api-logo.svg",
+    "link": "https://dog.ceo/dog-api/",
+    "description": "Cheer yourself up with random dog images."
+  },
+  {
+    "productName": "icanhazdadjoke.com",
+    "category": "api",
+    "image": "https://icanhazdadjoke.com/static/smile.svg",
+    "link": "https://icanhazdadjoke.com/api",
+    "description": "icanhazdadjoke.com can be used as an API for fetching a random joke, a specific joke, or searching for jokes in a variety of formats."
+  },
+  {
+    "productName": "Meme Generator",
+    "category": "api",
+    "image": "https://tinyurl.com/4paj5xkk",
+    "link": "https://tinyurl.com/4y9c7tud",
+    "description": "A simple meme generator that generates memes by choosing a preloaded image, and short top and bottom text sentences. Memes are served in the JPEG image file format."
+  },
+  {
+    "productName": "News API",
+    "category": "api",
+    "image": "https://tinyurl.com/2yhp5pd3",
+    "link": "https://newsapi.org/",
+    "description": "Access the latest news with this API."
+  },
+  {
+    "productName": "Unsplash API",
+    "category": "api",
+    "image": "https://tinyurl.com/2jawsxpr",
+    "link": " https://unsplash.com/developers",
+    "description": "Use free images in your projects from the largest open collection of high-quality photos."
+  },
+  {
+    "productName": "The Meal DB",
+    "category": "api",
+    "image": "https://www.themealdb.com/images/logo-small.png",
+    "link": "https://www.themealdb.com/api.php",
+    "description": " An open, crowd-sourced database of Recipes from around the world."
+  },
+  {
     "productName": "Hi TV",
     "category": "movies",
     "image": "https://tinyurl.com/4xhvbctb",
@@ -301,7 +357,7 @@
     "description": "Record a video from the camera or capture it from the screen"
   },
   {
-    "productName": "Awesome Screen Capture And Recorder",
+    "productName": "Awesome Screen Capture",
     "category": "tools",
     "image": "https://avatars.slack-edge.com/2019-03-29/593781862471_95d3bb4cccb9b58821be_512.png",
     "link": "https://www.awesomescreenshot.com/",
@@ -334,6 +390,13 @@
     "image": "https://bit.ly/3xnfdRH",
     "link": "https://bitly.com/",
     "description": " URL shortening and Generate QR Codes"
+  },
+  {
+    "productName": "TinyURL",
+    "category": "tools",
+    "image": "https://tinyurl.com/5n766wtt",
+    "link": "https://tinyurl.com/app",
+    "description": " URL shortening with custom short aliases"
   },
   {
     "productName": "Contrib Rocks",
@@ -1183,10 +1246,10 @@
     "description": "Website to download latest movies and webseries"
   },
   {
-    "productName": "Zoro.to",
+    "productName": "Aniwatch.to",
     "category": "movies",
-    "image": "https://bit.ly/3l7SXcm",
-    "link": "https://zoro.to/",
+    "image": "https://pbs.twimg.com/profile_images/1676239730994737152/Ii75RYHN_400x400.jpg",
+    "link": "https://aniwatch.to/",
     "description": "Website to stream your favorite anime for free"
   },
   {
@@ -3100,13 +3163,6 @@
   "description": "A platform that primarily focuses on creative skills and offers a wide range of courses in design, photography, writing, and other artistic disciplines."
 },
 {
-  "productName": "LinkedIn Learning",
-  "category": "courses",
-  "image": "https://bit.ly/3NWgMzg",
-  "link": "https://www.linkedin.com/learning/",
-  "description": "Provides a vast library of courses focused on professional development and career advancement."
-},
-{
   "productName": "Alison",
   "category": "courses",
   "image": "https://bit.ly/46q9awl",
@@ -3367,13 +3423,6 @@
   "link": "https://csslayout.io/",
   "description": "A collection of popular layouts and patterns made with CSS."
 },
-{
-  "productName": "Simplilearn",
-  "category": "courses",
-  "image": "https://www.simplilearn.com/ice9/new_logo.svgz",
-  "link": "https://www.simplilearn.com/",
-  "description": "Simplilearn is the world’s leading digital skills provider, enabling learners across the globe."
- },
  {
   "productName": "Uiverse",
   "category": "web",
@@ -3522,6 +3571,20 @@
   "description":"Scaler Topics provides programming articles related to Python,Java,Data Structure,C/C++ and other popular programming languages"
 },
 {
+  "productName":"Great Learning",
+  "category":"courses",
+  "image":"https://rb.gy/7l10n",
+  "link":"https://www.mygreatlearning.com/academy",
+  "description":"Learn the in-demand skills to advance your career in AI, ML, data science, digital marketing, cloud, software engg & more."
+},
+{
+  "productName":"Fullstack.cafe",
+  "category":"tools",
+  "image":"https://bit.ly/3DqpnnW",
+  "link":"https://www.fullstack.cafe/",
+  "description":"Website that will help you in your tech Interviews."
+},
+{
   "productName":"Heroku",
   "category":"tools",
   "image":"https://shorturl.at/eHKN8",
@@ -3557,14 +3620,6 @@
   "description":"On this website, you can develop any website without coding just by editing."
 },
 {
-  "productName":"Great Learning",
-  "category":"courses",
-  "image":"https://rb.gy/7l10n",
-  "link":"https://www.mygreatlearning.com/academy",
-  "description":"Learn the in-demand skills to advance your career in AI, ML, data science, digital marketing, cloud, software engg & more."
-
-},
-{
   "productName":"Devpractical",
   "category":"web",
   "image":"https://rb.gy/94mw9",
@@ -3584,6 +3639,27 @@
   "image": "https://rb.gy/ab6ja",
   "link": "https://practity.com/",
   "description": "PROJECT BASED LEARNING PUT THEORY INTO PRACTICE"
+},
+{
+  "productName": "broken-link-checker",
+  "category": "web",
+  "image": "https://l1nk.dev/9mfZ8",
+  "link": "https://ahrefs.com/broken-link-checker",
+  "description": "It helps check your site for broken inbound and outbound links in seconds."
+},
+{
+  "productName": "youtube-keyword",
+  "category": "web",
+  "image": "https://l1nk.dev/9mfZ8",
+  "link": "https://ahrefs.com/youtube-keyword-tool",
+  "description": "it helps Get more views on YouTube by researching keywords people are searching for."
+},
+{
+  "productName": "amazon-keyword-tool",
+  "category": "web",
+  "image": "https://acesse.one/9mfZ8",
+  "link": "https://ahrefs.com/amazon-keyword-tool",
+  "description": "It helps find what people are searching for on Amazon, and align your product listings with those terms."
 },
 {
   "productName": "Tabnine AI",
@@ -3626,5 +3702,56 @@
 "image": "https://rb.gy/qfpwe",
 "link": "https://www.zenhub.com/",
 "description": "Zenhub is the only project management tool that integrates natively within GitHub’s user interface."
+},
+{
+"productName": "VideoPad",
+"category": "tools",
+"image": "https://rb.gy/h6wus",
+"link": "https://www.nchsoftware.com/videopad/",
+"description": "VideoPad supports drag-and-drop, effects, transitions, 3D video editing, text and caption overlay, video stabilization, easy narration, free built-in sound effects, and color control."
+},
+{
+"productName": "OpenShot",
+"category": "tools",
+"image": "https://rb.gy/4cq2a",
+"link": "https://www.openshot.org/download/",
+"description": "Editing videos with OpenShot is extraordinary when you see everything you can do with it. "
+},
+{
+"productName": "Movie Maker",
+"category": "tools",
+"image": "https://rb.gy/k7pjr",
+"link": "https://apps.microsoft.com/store/detail/movie-maker-video-editor/9MVFQ4LMZ6C9?hl=en-us&gl=us",
+"description": "Movie Maker - Video Editor is the best video editing tool with FULL HD EXPORT and NO WATERMARK"
+},
+{
+"productName": "iMovie",
+"category": "tools",
+"image": "https://rb.gy/6at8a",
+"link": "https://www.apple.com/imovie/",
+"description": "Get cinema-quality videos and let your imagination run wild. Edit videos on the fly or explore iMovie on your Mac. "
+},
+{
+  "productName": "Icon-Icons",
+  "category": "tools",
+  "image": "https://rb.gy/j94i8",
+  "link": "https://icon-icons.com/",
+  "description": "Icon-Icons is a platform that provides a collection of icons in various formats, such as SVG, PNG, and ICO, for use in web design, graphic design, and other digital projects."
+},
+{
+
+  "productName": "Sketch",
+  "category": "UI",
+  "image": "https://rb.gy/2xnne",
+  "link": "https://www.sketch.com/",
+  "description": "Sketch is the all-in-one platform for digital design — with collaborative design tools, prototyping and developer handoff. Get started for free."
+},
+  {
+  "productName": "Frontend PRO",
+  "category": "web",
+  "image": "https://rb.gy/govez",
+  "link": "https://www.frontendpro.dev/",
+  "description": "Code your way to your dream job with our Frontend Coding Challenges and build real-world Frontend Projects to take your skills to the next level."
+
 }
 ]

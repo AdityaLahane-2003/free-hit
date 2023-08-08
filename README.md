@@ -7,6 +7,32 @@ Free-Hit is a website where you can search for free tools that are useful for yo
 
 > ![free-hit](https://github.com/JasonDsouza212/free-hit/assets/88102392/3bd18ef6-fc72-4882-85c3-9591c7d94067)
 
+## Table of Content
+
+- [Why to Open Source?](#Why-to-Open-Source?)
+- [🌟 Benefits of Contributing to Open-Source](#-Benefits-of-Contributing-to-Open-Source)
+- [Tech Stack](#Tech-Stack)
+- [🚀 Quick start](#-Quick-start)
+- [License](#License)
+- [🤝 Our Contributors](#-Our-Contributors)
+
+## Why to Open Source?
+
+Open Source increases our prospectives and opportunities in contributing to various kinds of projects and engage with different kind of mentors. It helps us to build connections and open a gate to various kinds of open source technologies.
+
+Our website is one such kind which provides a platform to contributors from all over the world give their inputs in the form of useful websites which are free to use. It enables us to get a list of all the websites together at one place thereby saving a lot of time for us. We can find any kind of website here, be it a tool or an education platform. Hence, it is declared as a knowledge sharing platform!
+
+## 🌟 Benefits of Contributing to Open-Source
+
+Contributing to open-source projects like Free-Hit has numerous benefits. It helps you:
+
+1. Give back to the community: By contributing, you help grow and improve the tools that you and many others use.
+
+2. Build your portfolio: Your contributions can serve as real-world examples of your work and make you stand out in the job market. These can enhance your resume.
+
+3. Improve existing skills and learn new ones: Working on real-world projects gives you the chance to apply what you've learned and gain more knowledge along the way. 
+
+4. Network with professionals: You get to connect and collaborate with professionals around the world, opening up potential job opportunities.
 
 ## Tech Stack
 - [Reactjs](https://react.dev) - Reactjs is a JavaScript library for building user interfaces.
@@ -44,6 +70,11 @@ Terms and conditions for use, reproduction, and distribution are under the [MIT 
 <a name="changelog"></a>
 
 [Syed Aman Ali](https://github.com/VenomFate-619) - Project Mentor
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https:/www.linkedin.com/in/jason-dsouza-130b421ba/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_Jason_Dsouza) 
 
 ## 🤝 Our Contributors
 

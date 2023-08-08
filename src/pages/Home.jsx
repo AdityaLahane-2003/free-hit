@@ -5,7 +5,6 @@ import noresultimg from '../assets/sad-face-2.webp'
 import GridView from '../components/Card/GridView'
 import ListView from '../components/Card/ListView'
 import { BsFillGridFill, BsListUl } from 'react-icons/bs'
-import { RiMoonClearFill, RiSunFill } from 'react-icons/ri' // Import the icons for dark mode toggle
 import '../styles/Home.css'
 import { useSearchParams, Navigate } from 'react-router-dom'
 import checkFilter from "..//utils/check_filters"
@@ -64,11 +63,13 @@ const Card = () => {
         <BsFillGridFill
           onClick={() => setGridView(true)}
           size={22}
+          title="Grid"
           color={gridView ? "#212121" : "#9E9E9E"}
         />
         <BsListUl
           onClick={() => setGridView(false)}
           size={28}
+          title="List"
           color={gridView ? "#9E9E9E" : "#212121"}
         />
 
